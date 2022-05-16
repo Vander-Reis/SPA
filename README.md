@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-	Aplicação voltada para intender os conceitos de um SPA (Single single-page application)
+	Aplicação voltada para intender os conceitos de um SPA (single-page application)
 </h3>
 
 <p align="center">
